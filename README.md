@@ -4,9 +4,9 @@ For this project I will investiage the data from 'The Movie Database' (TMDb). Th
 
 Questions Posed:
 
-What genres of movies have higher ratings?
-Do the genre(s) with higher ratings change over time?
-Does release date contribute to increased revenues?
-Does runtime contribute to the popularity of a movie?
+>1. What genres of movies have higher ratings?
+>2. Do the genre(s) with higher ratings change over time?
+>3. Does release date contribute to increased revenues?
+>4. Does runtime contribute to the popularity of a movie?
 
 Throught out this process I will show the steps I've taken to characterize, clean, and analyze the data. Then I will conclude with my final resuls.
