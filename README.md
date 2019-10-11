@@ -1,5 +1,5 @@
 # Data-Analyst-Nanodegree
-# Project 2: Investigate a dataset from 'The Movie Database'
+# Project 1: Investigate a dataset from 'The Movie Database'
 For this project I will investiage the data from 'The Movie Database' (TMDb). This dataset contains data such as genre, release_year, cast, revenue, and budget on over 10,000 movies. As part of my investation and analysis I will answer the following questions:
 
 Questions Posed:
